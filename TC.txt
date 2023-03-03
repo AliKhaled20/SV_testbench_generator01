@@ -1,0 +1,16 @@
+Test case 1
+input a = 1;
+input b = 2;
+output y = 3;
+Test case 2
+input a = 0;
+input b = 0;
+output y = 0;
+Test case 3
+input a = 1;
+input b = 7;
+output y = 8;
+Test case 4
+input a = 3;
+input b = 2;
+output y = 5;

@@ -1,0 +1,11 @@
+Test case 1
+input a = 1;
+input b = 0;
+input cin = 0;
+output sum = 1;
+output cout = 0;
+Test case 2
+
+input a = 1;
+input b = 1;
+input cin = 1;
